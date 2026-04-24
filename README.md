@@ -223,8 +223,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- Email: yashdeepak18@gmail.com
 
 ---
 
@@ -233,20 +232,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Images sourced from travel photography collections
 - Inspiration from modern travel websites
 - Built with ❤️ for travel enthusiasts
-
----
-
-## 📞 Contact & Support
-
-For questions or feedback about this project:
-- Create an issue on GitHub
-- Email: your.email@example.com
-
----
-
-## 🌐 Live Demo
-
-[Add your deployed website URL here]
 
 ---
 
